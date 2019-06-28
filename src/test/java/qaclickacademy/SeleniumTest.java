@@ -16,6 +16,10 @@ public class SeleniumTest {
 	{
 		System.out.println("selvielementsUi");	
 	}
-	
+	@Test
+	public void elementsUi1()
+	{
+		System.out.println("selvielementsUi1");	
+	}
 
 }
