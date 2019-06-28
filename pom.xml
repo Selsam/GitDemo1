@@ -3,10 +3,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
   <groupId>qaclickacademy</groupId>
+<<<<<<< HEAD
   <artifactId>GitX</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>GitX</name>
+=======
+  <artifactId>GitDemo1</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>GitDemo1</name>
+>>>>>>> a202be73db408334a06c90f3c81567d18bbcd603
   <url>http://maven.apache.org</url>
   <profiles>
   <profile>
